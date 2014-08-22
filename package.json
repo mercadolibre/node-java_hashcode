@@ -1,0 +1,21 @@
+{
+  "name": "java-hashcode",
+  "version": "0.0.1",
+  "description": "This is a very simple tool that provides a way to do a Hashcode that is compatible with Java hashcode, This tool is very usefull for software that use java for some part and node for other (in particular if use partitioned something using hash)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/geisbruch/node-java_hashcode"
+  },
+  "keywords": [
+    "java",
+    "hascode",
+    "hash",
+    "partition"
+  ],
+  "author": "Gabriel Eisbruch",
+  "license": "BSD"
+}
