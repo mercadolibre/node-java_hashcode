@@ -1,5 +1,7 @@
 #Node Hashcode function compatible with JavaObject.hascode()
-##How to use
+
+#How to use
+
 npm install java-hashcode
 
 ```js
